@@ -1,0 +1,6 @@
+FirstName,LastName,Email
+Huong,An,{{$randomEmail}}
+Ngoc,An ,{{$randomEmail}}
+Minh,Anh,{{$randomEmail}}
+Hong,Anh ,{{$randomEmail}}
+Phuong ,Anh,{{$randomEmail}}
